@@ -84,3 +84,15 @@ footer {
     text-align: center;
     padding: 10px;
 }
+/* Voltar ao topo*/
+
+.voltar_topo {
+
+	text-decoration: nome;
+	color: wheat;
+	padding: 10px;
+	background-color:red;
+	position: fixed;
+	right: 01px;
+	bottom: 0px;
+}
